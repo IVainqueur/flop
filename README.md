@@ -11,3 +11,10 @@ Before running the app you'll have to:
    > **Note:** Make sure to consider the device you want to run the app on and select the appropriate build settings in Unity like the target architecture (ARMv7, ARM64, x86, x86_64) and the graphics API (OpenGL ES 2.0, OpenGL ES 3.0, Vulkan, Metal). Getting it wrong may result in the Unity build not running on the device.
 
 3. Run the app with `yarn android` or `yarn ios` depending on your target device
+
+## How to play
+
+There are 3 ways to make the bird move:
+- Press the space bar
+- Click the screen (left click)
+- Touching the screen
