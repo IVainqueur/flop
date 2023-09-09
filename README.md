@@ -1,6 +1,8 @@
 # FLOP
 This is a react-native **wrapper** for the [Flop](https://github.com/IVainqueur/flop-unity) Unity game.
 
+![Flop Demo](/screenshots/flopWrapperDemo.gif)
+
 ## How to run
 Before running the app you'll have to:
 1. Clone the [Flop](https://github.com/IVainqueur/flop-unity) repository
